@@ -30,6 +30,8 @@ Here are some photos from Internation Day!
 <h2>New Student Orientation</h2>
     <p>
         NSO is so fun!
+          <img src="" alt="Description of Image" width="500" height="400">
+
     </p>
 
 <p style="color:purple;">Hello there </p>

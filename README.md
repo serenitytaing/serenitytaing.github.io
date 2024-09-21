@@ -19,21 +19,18 @@
     <p>
         Our club has won the 2022-2023 talent show!
     </p>
-    <img src="" alt="Description of Image" width="500" height="400">
 
 <h2>International Day</h2>
     <p>
-Here are some photos from Internation Day!    
+      Our club sells yummy Chinese food like chow-mein and dumplings!
     </p>
-    <img src="" alt="Description of Image" width="500" height="400">
+   
 
 <h2>New Student Orientation</h2>
     <p>
         NSO is so fun!
-          <img src="" alt="Description of Image" width="500" height="400">
-
     </p>
-
-<p style="color:purple;">Hello there </p>
+<body style="background-color:#ee6b6e;">
+  
 </body>
 </html>

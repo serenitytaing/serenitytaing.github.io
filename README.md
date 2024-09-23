@@ -1,7 +1,5 @@
 <h1 style="color:Red;">Club Chang'an: </h1>
 
-
-
 <html>
 <body>
   

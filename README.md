@@ -22,7 +22,8 @@
         <li><strong>Our club</strong> has won the <strong>2022-2023 talent show</strong>!</li>
 <li>Our club is well-known for its exciting performances at the annual school talent show. From traditional Chinese dances, such as the elegant <strong>fan dance</strong>, to modern performances that blend contemporary <strong>pop culture</strong> with Chinese elements, we strive to make each performance an <strong>unforgettable experience</strong>.</li>
 <li>Each dance follows a traditional Chinese story crafted by our <strong>competition heads</strong>, and we tell this rich narrative through our <strong>choreography</strong>. Members of all skill levels are encouraged to take part, allowing everyone to contribute to this unique <strong>storytelling</strong> through dance.</li> </ul>
-  
+
+<p>Check out our 2024 performance on <a href="https://www.youtube.com/watch?v=8HnvKI2LuTY" target="_blank">YouTube!</a></p>
 
 <h2>International Day</h2>
     <p>

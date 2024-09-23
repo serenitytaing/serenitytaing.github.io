@@ -1,5 +1,5 @@
 # Club Chang'an
-<!DOCTYPE html>
+
 <html>
 <body>
   

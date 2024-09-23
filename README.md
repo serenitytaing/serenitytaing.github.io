@@ -4,7 +4,7 @@
 <body>
   
 <h2>About Our Club:</h2>
-
+<h2 style="color:8B0000;">About Our Club </h2>
 <p><strong>Club Chang'an</strong> is the Chinese cultural club here on campus, dedicated to spreading awareness and appreciation of <strong>Chinese culture</strong>. Our mission is to promote cultural exchange and foster an understanding of Chinese heritage through a variety of activities, performances, and social events. Whether you're familiar with Chinese traditions or are curious about learning more, our club provides a welcoming environment where you can engage with Chinese culture in a fun way.</p>
 
 <p>We organize events throughout the year to showcase the beauty of Chinese customs and traditions, such as dance performances, music showcases, cooking workshops, and celebrations of major festivals like <strong>Lunar New Year</strong>. Club Chang'an is a diverse group of students passionate about sharing their love for Chinese culture while building a close-knit community. We value inclusivity and encourage anyone with an interest in cultural exchange to join us. You'll not only learn about ancient and modern Chinese culture, but you'll also gain leadership experience and create lasting memories!</p>

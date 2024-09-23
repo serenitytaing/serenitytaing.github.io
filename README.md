@@ -33,7 +33,7 @@
     <p>
         NSO is so fun! New Student Orientation is a special event for our club, as it gives us the opportunity to connect with incoming students and introduce them to the campus community.
     </p>
-<body style="background-color:#ee6b6e;">
+<body style="background-color:#F7E3C4;">
 
   
 </body>

@@ -24,6 +24,8 @@
 
 <p>Check out our 2024 performance on <a href="https://www.youtube.com/watch?v=8HnvKI2LuTY" target="_blank">YouTube!</a></p>
 
+<img src="IMG_6506.JPEG" alt="Talent Show 2024">
+
 <h2 style="color:Red;">International Day: </h2>
     <p>
     <strong>International Day</strong> is a highlight of our year, allowing us to showcase <strong>Chinese culture</strong> to the school community. Our booth is filled with excitement as students line up for traditional dishes like <strong>handmade dumplings</strong> and <strong>chow mein</strong>. In addition to food, we feature <strong>cultural performances</strong> that highlight the beauty of Chinese heritage. We perform both <strong>traditional</strong> and <strong>modern dances</strong>.
@@ -33,6 +35,8 @@
     <p>
         NSO is so fun! New Student Orientation is a special event for our club, as it gives us the opportunity to connect with incoming students and introduce them to the campus community.
     </p>
+  <img src="IMG_9282.HEIC" alt="NSO 2024">
+
 <body style="background-color:#F7E3C4;">
 
   

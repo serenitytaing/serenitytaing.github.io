@@ -35,7 +35,7 @@
     <p>
         NSO is so fun! New Student Orientation is a special event for our club, as it gives us the opportunity to connect with incoming students and introduce them to the campus community.
     </p>
-  <img src="IMG_9282.HEIC" alt="NSO 2024">
+  <img src="IMG_9282.jpg" alt="NSO 2024">
 
 <body style="background-color:#F7E3C4;">
 
